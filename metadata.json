@@ -1,0 +1,6 @@
+{
+  "name": "Firewall Port Blocker",
+  "description": "An interactive mobile-friendly cybersecurity game where players block unauthorized services by selecting the correct port under pressure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
